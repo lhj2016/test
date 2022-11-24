@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T09:17:34.745Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="LEnPGLpDDhl3SQP93UbD" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-24T09:21:20.589Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="CAHoQj7W77rTyRb_bMBA" version="20.6.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2249" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -209,10 +209,14 @@
           <mxGeometry x="-50" y="400" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jYpraWL_3tG5w02lIEhH-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jYpraWL_3tG5w02lIEhH-10" target="jYpraWL_3tG5w02lIEhH-20">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="1140" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="jYpraWL_3tG5w02lIEhH-10" value="传统答案的方式" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="930" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jYpraWL_3tG5w02lIEhH-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jYpraWL_3tG5w02lIEhH-12" target="jYpraWL_3tG5w02lIEhH-14">
           <mxGeometry relative="1" as="geometry" />
@@ -231,8 +235,22 @@
         <mxCell id="jYpraWL_3tG5w02lIEhH-17" value="有统一的题目，&lt;br&gt;块中显示选项，&lt;br&gt;从掉落的块中&lt;br&gt;选择正确的选项，&lt;br&gt;答对得分，答错扣分&lt;br&gt;在指定的时间答对的越多&lt;br&gt;得分越多" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-200" y="870" width="180" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="jYpraWL_3tG5w02lIEhH-20" value="每道题，题目&lt;br&gt;对应选项，" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-160" y="1060" width="120" height="80" as="geometry" />
+        <mxCell id="jYpraWL_3tG5w02lIEhH-20" value="上面题目，&lt;br&gt;底下选项" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-160" y="1100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpraWL_3tG5w02lIEhH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jYpraWL_3tG5w02lIEhH-22" target="jYpraWL_3tG5w02lIEhH-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="985" />
+              <mxPoint x="20" y="1060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jYpraWL_3tG5w02lIEhH-22" value="消消乐" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpraWL_3tG5w02lIEhH-23" value="上面题目，&lt;br&gt;底下选项" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-160" y="1020" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
